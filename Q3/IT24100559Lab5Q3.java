@@ -4,7 +4,7 @@ public class IT24100559Lab5Q3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-		final int RC_PER_DAY = 48000; // Room charge per day
+	final int RC_PER_DAY = 48000; // Room charge per day
         final int NO_DISCOUNT_DAYS = 3; // No discount if reserved less than 3 days
         final int MID_DISCOUNT_DAYS = 4; // Discount of 10% for 3 to 4 days
         final int HIGH_DISCOUNT_DAYS = 5; // Discount of 20% for 5 or more days
